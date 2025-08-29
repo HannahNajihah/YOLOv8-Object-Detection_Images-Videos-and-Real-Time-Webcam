@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO outputs
+runs/
+*.pt
+
+# Data files
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.png
+
+# Colab
+.colab/
