@@ -21,3 +21,6 @@ It covers three practical applications relevant to industry use cases in autonom
 🔹 Webcam Streaming in Colab: Real-time detection using a browser-based video stream.
 
 🔹 Customizable Confidence Thresholds (conf=0.4 used here).
+
+## Run Notebook in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ja-fXFDwTwPUyDpTZSHC6zZ2IIfJn2tu#scrollTo=oasA_qyO70uw)
